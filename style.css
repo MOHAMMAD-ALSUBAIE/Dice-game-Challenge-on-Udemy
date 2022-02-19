@@ -31,16 +31,17 @@ color: #4ECCA3;
 font-family: 'Indie Flower', cursive;
 
 }
-@media (max-width:501px){
-   img{
-    width: 17rem;
+@media (min-width:390px){
+  img{
+    width: 13rem;
+    width: 100%;
   }
   h1{
-    font-size: 4rem;
+    font-size: 7.8rem;
     margin-bottom: 24%;
   }
   .dice{
-    width: 45%;
+    width: 43%;
 
   }
   .container{
@@ -48,10 +49,13 @@ font-family: 'Indie Flower', cursive;
 
   }
   .player{
-    font-size: 4.5rem;
+    font-size: 7rem;
   }
   footer{
+    text-align: center;
     position: absolute;
     bottom: 2rem;
-  }
+    left:30%;
+       }
 }
+
