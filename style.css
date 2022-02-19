@@ -32,12 +32,12 @@ font-family: 'Indie Flower', cursive;
 
 }
 @media (max-width:501px){
-  img{
-    width: 13rem;
+   img{
+    width: 17rem;
   }
   h1{
     font-size: 4rem;
-    margin-bottom: 15%;
+    margin-bottom: 24%;
   }
   .dice{
     width: 45%;
