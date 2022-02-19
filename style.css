@@ -31,7 +31,7 @@ color: #4ECCA3;
 font-family: 'Indie Flower', cursive;
 
 }
-@media (min-width:390px){
+@media (max-width:450px){
   img{
     width: 13rem;
     width: 100%;
