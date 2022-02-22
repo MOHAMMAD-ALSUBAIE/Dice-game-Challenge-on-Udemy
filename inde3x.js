@@ -44,3 +44,12 @@ else if(randomNumber1>randomNumber2){
 else {
   document.querySelector("h1").textContent="Player 2 win 🚩 ";//it take the textContent inside h1 and change the value, it property
 }
+
+
+
+
+//button of start game
+document.querySelector("button").addEventListener("click",function(){
+  location.reload();
+});
+
